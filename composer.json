@@ -1,0 +1,17 @@
+{   "name": "oleandrosantos/calculadoratdd",
+    "version": "1.0.0",
+    "autoload": {
+        "classmap": [
+            "classDir/",
+            "tests/"
+        ]
+        },
+    "authors": [
+        {
+            "name": "Leandro Santos",
+            "email": "contato@oleandrosantos.me"
+        }],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
